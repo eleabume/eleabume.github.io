@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eleabume.github.io/sitemap.eleabume.gz
+Sitemap: https://eleabume.github.io/app/sitemap.eleabume.gz
+Sitemap: https://eleabume.github.io/assets/sitemap.eleabume.gz
+Sitemap: https://eleabume.github.io/css/sitemap.eleabume.gz
+Sitemap: https://eleabume.github.io/data/sitemap.eleabume.gz
+Sitemap: https://eleabume.github.io/includes/sitemap.eleabume.gz
+Sitemap: https://eleabume.github.io/item/sitemap.eleabume.gz
+Sitemap: https://eleabume.github.io/src/sitemap.eleabume.gz
